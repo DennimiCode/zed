@@ -17,5 +17,11 @@
     "bindings": {
       "j j": "vim::NormalBefore"
     }
+  },
+  {
+    "context": "Editor",
+    "bindings": {
+      "space l f": "editor::Format"
+    }
   }
 ]
