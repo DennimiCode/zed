@@ -9,7 +9,7 @@
 {
   "preferred_line_length": 120,
   "tab_size": 2,
-  "relative_line_numbers": true,
+  "relative_line_numbers": "enabled",
   "buffer_line_height": "comfortable",
   "autosave": {
     "after_delay": {
